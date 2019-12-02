@@ -3,9 +3,9 @@ scripting language programs submission
 
 (under Department of ISE, Ramaiah Institute of Technology)
 
-USN : 1MS18IS406
+USN : 1MS18IS402
 
-Name : Kumar Hegde
+Name : Bhaskar C
 
 Section : 5A
 
